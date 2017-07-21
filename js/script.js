@@ -26,3 +26,9 @@ function addSpan(){
 
 var third = document.getElementsByName('third');
 third[0].addEventListener('click',addSpan);
+
+
+
+
+
+

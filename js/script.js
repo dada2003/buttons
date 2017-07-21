@@ -30,9 +30,9 @@ third[0].addEventListener('click', addSpan);
 
 
 
-var prom = prompt('write something');
 
 function setValue() {
+    var prom = prompt('write something');
     document.body.children[3].value = prom;
 }
 var fourth = document.getElementsByName('fourth');
